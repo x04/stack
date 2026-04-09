@@ -1,0 +1,14 @@
+{
+  "name": "trey-stack",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@effect/language-service": "^0.85.0",
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+    "@typescript/native-preview": "^7.0.0-dev.20260409.1",
+    "effect": "^3.21.0"
+  }
+}
